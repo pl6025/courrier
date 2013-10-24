@@ -9,7 +9,7 @@ La partie conception visuelle est assurée par l'équipe création (Creative tea
 
 - Vous retrouverez les liens précédents sur le wiki (en anglais) : http://wiki.mozilla.org/Design? 
 
-- Et surtout sur le wiki, vous y trouverez le canal de discussion IRC de l'équipe création.
+- Et surtout, sur le wiki, vous y trouverez le canal de discussion IRC de l'équipe création.
 
 Si vous avez besoin d'autres renseignements, contactez-nous (la communauté Mozilla franchophone) à l'adresse contact@mozfr.org
 
