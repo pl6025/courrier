@@ -9,7 +9,7 @@ https://webmaker.org
 
 Ces événements sont rapides, faciles et amusants – en seulement 30 minutes, vous pouvez avoir un groupe d'amis autour de la table de votre cuisine, programmer facilement un site web ou fabriquer quelque chose de nouveau avec nos outils, et avoir quelque chose de génial dont vous vanter.
 
-Si vous voulez de la documentation technique plus poussez, vous la trouverez sur https://developer.mozilla.org/
+Si vous voulez de la documentation technique plus poussée, vous la trouverez sur https://developer.mozilla.org/
 
 Et si vous ne voulez pas organiser un événement et préférez contribuer de votre temps en construisant nos outils, c'est possible !
 - Aidez à maintenir à jour la localisation (traduction) de Webmaker : https://www.transifex.com/projects/p/webmaker/
