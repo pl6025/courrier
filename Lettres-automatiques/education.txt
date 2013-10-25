@@ -1,0 +1,24 @@
+Ceci est un mail automatique pour vous présenter les outils et documents vous permettant d'apprendre le Web.
+Merci de votre intérêt dans les produits Mozilla.
+
+Nous savons que les gens apprennent mieux quand ils font quelque chose ensemble. Donc, nous invitons le monde entier à se rencontrer, faire quelque chose de cool, apprendre comment fonctionne le code qui est derrière le Web – et s'éclater en le faisant.
+
+Nous avons tous les outils et les conseils dont vous avez besoin pour commencer sur :
+
+https://webmaker.org
+
+Ces événements sont rapides, faciles et amusants – en seulement 30 minutes, vous pouvez avoir un groupe d'amis autour de la table de votre cuisine, programmer facilement un site web ou fabriquer quelque chose de nouveau avec nos outils, et avoir quelque chose de génial dont vous vanter.
+
+Si vous voulez de la documentation technique plus poussez, vous la trouverez sur https://developer.mozilla.org/
+
+Et si vous ne voulez pas organiser un événement et préférez contribuer de votre temps en construisant nos outils, c'est possible !
+- Aidez à maintenir à jour la localisation (traduction) de Webmaker : https://www.transifex.com/projects/p/webmaker/
+- Aidez à la localisation des articles de la documentation technique ou même à compléter la base de connaissance déjà réalisée : https://developer.mozilla.org/fr/docs/Project:MDN/contribuer
+
+Pour d'autres renseignements, contactez-nous à l'adresse contact@mozfr.org
+
+Et si vous voulez en savoir plus sur la communauté Mozilla francophone, n'hésitez pas à visiter notre site http://www.mozfr.org
+
+Cordialement,
+La Communauté Mozilla francophone http://www.mozfr.org
+Pour répondre, merci de mettre l'adresse contact@mozfr.org en destinataire.
