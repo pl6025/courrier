@@ -1,24 +1,52 @@
-Ceci est un mail automatique pour vous présenter les outils et documents vous permettant d'apprendre le Web.
-Merci de votre intérêt dans les produits Mozilla.
+Ceci est un mail automatique pour vous présenter les outils et documents vous permettant d'apprendre et ensigner le Web.
+Merci de votre intérêt pour Webmaker qui est une initiative de Mozilla dans le domaine de l'éducation.
 
-Nous savons que les gens apprennent mieux quand ils font quelque chose ensemble. Donc, nous invitons le monde entier à se rencontrer, faire quelque chose de cool, apprendre comment fonctionne le code qui est derrière le Web – et s'éclater en le faisant.
+Nous promouvons l'apprentissage du Web partout dans le monde par un apprentissage pratique et ludique.
 
-Nous avons tous les outils et les conseils dont vous avez besoin pour commencer sur :
+Voici quelques ressources pour vous aider à commencer.
 
-https://webmaker.org
+# Faire quelque chose avec le Web
 
-Ces événements sont rapides, faciles et amusants – en seulement 30 minutes, vous pouvez avoir un groupe d'amis autour de la table de votre cuisine, programmer facilement un site web ou fabriquer quelque chose de nouveau avec nos outils, et avoir quelque chose de génial dont vous vanter.
+Nous croyons que faire et apprendre vont de paire. Essayez nos outils libres et gratuits pour créer, animer et remixer le contenu web et améliorer vos connaissances du Web en allant sur :
 
-Si vous voulez de la documentation technique plus poussée, vous la trouverez sur https://developer.mozilla.org/
+http://webmaker.org/tools
 
-Et si vous ne voulez pas organiser un événement et préférez contribuer de votre temps en construisant nos outils, c'est possible !
-- Aidez à maintenir à jour la localisation (traduction) de Webmaker : https://www.transifex.com/projects/p/webmaker/
-- Aidez à la localisation des articles de la documentation technique ou même à compléter la base de connaissance déjà réalisée : https://developer.mozilla.org/fr/docs/Project:MDN/contribuer
+# Mentors Webmaker
 
-Pour d'autres renseignements, contactez-nous à l'adresse contact@mozfr.org
+Les mentors Webmaker sont des technologistes, penseurs et créateurs totalement non conventionels. Nous nous soucions de donner à tous la capacité de fabriquer le Web et d'ainsi pouvoir repousser les limites de ce qui est possible en ligne.
 
-Et si vous voulez en savoir plus sur la communauté Mozilla francophone, n'hésitez pas à visiter notre site http://www.mozfr.org
+Nous aidons ceux qui veulent apprendre à faire des choses étonnantes sur le Web et améliorons ainsi leur niveau de compétences numériques. Nous promouvons l'apprentissage par la pratique et un support d'apprentissage disponible où que nous soyons (dans nos maisons, bureaux, quartiers et en ligne).
+
+S'il vous plaît présentez-vous sur notre liste de diffusion (en anglais) de la communauté. N'ayez pas peur, nous ne mordons pas !
+
+https://lists.mozilla.org/listinfo/webmaker
+
+# Webmaker teaching kits
+
+Ces kits pédagogiques sont remplis d'activités et de ressources pour vous aider à animer des séances d'apprentissage, elles sont très orientées sur la pratique. Vous trouverez tout ce dont vous avez besoin, cela va d'explications prédagogiques générales aux astuces sur l'évaluation des progrès des participants. Imprimez-les, chargez-les sur votre tablette ou téléphone ou utilisez-les tout simplement comme source d'inspiration :
+
+https://webmaker.org/teach
+
+Mozilla est profondément engagée à identifier les aptitudes, les compétences et connaissances nécessaires pour lire, écrire et participer sur le Web, et nos kits pédagogiques sont cohérants avec le référentiel de compétences web.
+
+# Evénements Webmaker
+
+Participer ou organiser un événement Webmaker est une bonne manière de mettre en pratique ces kits d'enseignement. Réunissez vos amis et votre famille, prenez un ordinateur et commencez à créer le Web.
+
+Trouvez un événement prés de chez vous : https://webmaker.org/evenst
+
+Découvrez nos conseils pour organiser un  événement Webmaker : https://webmaker.org/guides
+
+# Allez, enseignons le Web !
+
+Merci de votre intérêt dans l'éducation et l'apprentissage du Web. Sentez vous libre d'utiliser et de remixe toutes ces ressources et partagz votre expérience avec la communauté des mentors Webmaker.
+
+https://lists.mozilla.org/listinfo/webmaker (liste de disscussion en anglais)
+
+L'équipe des mentors Webmaker de Mozilla
+_______________
+
+Si vous voulez découvrir la communauté Mozilla francophone, n'hésitez pas à visiter notre site http://www.mozfr.org
 
 Cordialement,
 La Communauté Mozilla francophone http://www.mozfr.org
-Pour répondre, merci de mettre l'adresse contact@mozfr.org en destinataire.
